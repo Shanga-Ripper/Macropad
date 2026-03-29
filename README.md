@@ -14,3 +14,6 @@ This is my Macropad.
 <img width="762" height="556" alt="Screenshot 2026-03-29 at 4 36 44 PM" src="https://github.com/user-attachments/assets/b7f61913-fabd-442b-b096-5f9b469d204e" />
 
 <img width="762" height="700" alt="Screenshot 2026-03-29 at 4 36 59 PM" src="https://github.com/user-attachments/assets/212a1295-0c63-44a1-98d8-d30e2225af4a" />
+
+<img width="564" height="579" alt="Screenshot 2026-03-29 at 6 10 45 PM" src="https://github.com/user-attachments/assets/8f3e640c-6b59-4ace-9b2b-ee58cb2f2387" />
+
