@@ -18,3 +18,12 @@ This is my Macropad.
 <img width="564" height="579" alt="Screenshot 2026-03-29 at 6 10 45 PM" src="https://github.com/user-attachments/assets/8f3e640c-6b59-4ace-9b2b-ee58cb2f2387" />
 
 <img width="673" height="629" alt="Screenshot 2026-03-29 at 7 19 17 PM" src="https://github.com/user-attachments/assets/938f729e-cd49-4820-9c5c-fd1f4739b479" />
+
+BOM for my Macropad
+1. 2x Cherry MX Switches
+2. 2x DSA Keycaps
+3. 2x SK6812MINI-E RGB LEDs
+4. 1x 0.91" 128x32 OLED Display
+5. 1x EC11 Rotary Encoder
+6. 1x XIAO RP2040
+7. 1x Case (2 3d printed parts)
