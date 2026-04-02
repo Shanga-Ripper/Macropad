@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Srikara Rao](https://github.com/shangathechild)
+* Keyboard Maintainer: [Srikara P](https://github.com/shangathechild)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
