@@ -15,11 +15,25 @@ This is my Macropad.
 <img width="673" height="629" alt="Screenshot 2026-03-29 at 7 19 17 PM" src="https://github.com/user-attachments/assets/938f729e-cd49-4820-9c5c-fd1f4739b479" />
 
 
-BOM for my Macropad
-1. 2x Cherry MX Switches
-2. 2x DSA Keycaps
-3. 2x SK6812MINI-E RGB LEDs
-4. 1x 0.91" 128x32 OLED Display
-5. 1x EC11 Rotary Encoder
-6. 1x XIAO RP2040
-7. 1x Case (2 3d printed parts)
+BOM for my Macropad:
+1. 4x Cherry MX Switches:
+  Link : https://www.alibaba.com/product-detail/Cherry-mechanical-Keyboard-key-touch-Micro_1601204407658.html?spm=a2700.prosearch.normal_offer.d_image.183267afHfnEJ0&priceId=53afa7db8cfd46a7952ed8fc7a63f760
+  Total Cost : $0.41
+2. 2x DSA Keycaps:
+   Link: https://www.alibaba.com/suppliersubdomainalibabacom/product-detail/PBT-Colorful-Keycaps-for-Mechanical-Keyboard_1601712196348.html?spm=a2700.prosearch.normal_offer.d_image.44c667afrCAsDR&priceId=46677dda65da4e8da5d13f48e3ea3673
+   Total Cost : $1.63
+4. 10x SK6812MINI-E RGB LEDs:
+   Link : https://www.alibaba.com/product-detail/Reverse-Mount-6028-Rgb-Smd-Led_1600640673301.html?spm=a2700.prosearch.normal_offer.d_image.6e3b67afbiULBB&priceId=30f23cf973d64fbda3495a9ca82fa3ee
+   Total Cost : $0.45
+6. 1x 0.91" 128x32 OLED Display:
+  Link : https://www.alibaba.com/product-detail/0-91-Inch-OLED-Display-Screen_1601418193533.html?spm=a2700.prosearch.normal_offer.d_image.5a2967afCjDuO1&priceId=cd9784d7f7734851b92d56c7dc479605
+  Total Cost : $0.88
+8. 2x EC11 Rotary Encoder:
+  Link : https://www.alibaba.com/product-detail/20mm-Audio-Digital-Potentiometer-Rotary-Encoder_1601112137034.html?spm=a2700.prosearch.normal_offer.d_image.339f67af0KrhYF&priceId=165095eda4674ee99a13386a2b30070a
+  Total Cost : $0.59
+9. 1x XIAO RP2040:
+  Link : https://www.alibaba.com/product-detail/For-Nano-RP2040-Motherboard-Seeed-Studio_1601721854998.html?spm=a2700.prosearch.normal_offer.d_image.67ba67af5q1QJt&priceId=cce3d74f47614445b6886fc1c0f89cc1
+  Total Cost : $3.81 
+10. 1x Case (2x 3d printed parts)
+  Friend
+  No Cost
